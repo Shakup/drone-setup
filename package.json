@@ -1,0 +1,23 @@
+{
+  "name": "drone-setup",
+  "version": "0.0.0",
+  "description": "Drone Installation Software",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shakup/drone-setup.git"
+  },
+  "keywords": [
+    "drone",
+    "cms"
+  ],
+  "author": "Sébastien Decamme <sebastien.decamme@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shakup/drone-setup/issues"
+  },
+  "homepage": "https://github.com/Shakup/drone-setup"
+}
